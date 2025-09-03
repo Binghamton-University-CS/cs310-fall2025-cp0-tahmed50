@@ -1,7 +1,7 @@
-Full Name:
-GitHub ID:
-Binghamton CS userid:
-Discord name:
+Full Name: Tajrean Ahmed
+GitHub ID: tahmed50
+Binghamton CS userid: tahmed50
+Discord name: Tajrean Ahmed
 
 Please type or copy the CS 310 honesty statement here:
 
